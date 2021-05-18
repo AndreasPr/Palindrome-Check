@@ -1,3 +1,3 @@
-# Palindrome-Check-for-Strings
+# Palindrome Check-for-Strings
 
 Implementation in Java
